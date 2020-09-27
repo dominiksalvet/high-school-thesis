@@ -1,53 +1,9 @@
-> **Guide:**
->
-> 1. Sign in to GitHub.
-> 2. Click to *Use this template* button above.
-> 3. Create the repository for your awesome project.
-> 4. Replace `dominiksalvet/template` occurrences.
-> 5. Replace `<author>` and `<year>` occurrences.
-> 6. Replace `<project>` and `\<project\>` occurrences.
-> 7. Replace `<username>` occurrences.
-> 8. Replace `\<email\>` occurrences.
-> 9. Delete this preamble.
+# 16bitový procesor ve VHDL
 
-# \<project\>
+> Maturitní práce se zabývá logickým návrhem a popisem 16 bitového procesoru, který je popsán v [jazyku VHDL]((https://github.com/dominiksalvet/uvod_do_vhdl)). V této práci budou taky okrajově popsány potřebné základy jazyka VHDL a použitý software. Ve hlavní části se bude práce věnovat zprvu shrnutým popisem jednotlivých populárních architektur procesorů a její největší část bude popisovat samotný návrh architektury, instrukční sady a implementace do VHDL jazyka. Celý návrh procesoru je veden v duchu jednoduchosti. Náplní této maturitní práce je taky implementace souboru VHDL s popisem procesoru do fyzického zařízení – hradlové pole, neboli FPGA. K vypracování maturitní práce je použit výukový kit Basys 2 od firmy Digilent. Tento kit obsahuje hradlové pole Spartan 3E-100 od firmy Xilinx. Basys 2 taky obsahuje osmici přepínačů a LED diod a v neposlední řadě taky čtveřici tlačítek s ošetřením zákmitů.
 
-[![CI status](https://github.com/dominiksalvet/template/workflows/CI/badge.svg)](https://github.com/dominiksalvet/template/actions)
-[![standard-readme compliant](https://img.shields.io/badge/readme_style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
+Plný text práce je k dostání v souboru [high-school-thesis.pdf](high-school-thesis.pdf). Pro funkční odkazy je doporučeno soubor stáhnout a otevřít lokálně.
 
-> Short description.
+## Licence
 
-Long description.
-
-## Table of Contents
-
-* [Install](#install)
-* [Usage](#usage)
-  * [Example](#example)
-* [Questions](#questions)
-* [Contributing](#contributing)
-* [License](#license)
-
-## Install
-
-Install content.
-
-## Usage
-
-Usage content.
-
-### Example
-
-Example content.
-
-## Questions
-
-If you have any questions, you can find out how to get them answered in [support.md](support.md) file.
-
-## Contributing
-
-Do you want to contribute somehow? Then [contributing.md](contributing.md) file is here for you.
-
-## License
-
-\<project\> is licensed under the [MIT License](license).
+Tato práce je licencována pod licencí [Apache License 2.0](license).
