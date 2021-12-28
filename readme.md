@@ -4,7 +4,7 @@
 
 Plný text práce je k dostání v souboru [high-school-thesis.pdf](high-school-thesis.pdf). Pro funkční odkazy je doporučeno soubor stáhnout a otevřít lokálně.
 
-Prezentace z obhajoby práce je publikována na [Speaker Deck](https://speakerdeck.com/dominiksalvet/16bitovy-procesor-ve-vhdl).
+Prezentace z obhajoby práce je publikována na [SlideShare](https://www.slideshare.net/DominikSalvet/16bitov-procesor-ve-vhdl).
 
 ## Licence
 
