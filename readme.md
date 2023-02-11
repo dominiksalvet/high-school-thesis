@@ -6,7 +6,7 @@
 
 ## Relevant Sources
 
-* [Thesis text (in Czech)](high-school-thesis.pdf)
+* [**Thesis text (in Czech)**](high-school-thesis.pdf)
 * [Processor source files](https://github.com/dominiksalvet/limen)
 * [Defense presentation (in Czech)](https://www.slideshare.net/DominikSalvet/16bitov-procesor-ve-vhdl)
 
